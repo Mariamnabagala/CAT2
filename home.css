@@ -1,0 +1,18 @@
+body{
+
+
+/* background properties */
+    background-color: lightpink;
+    background-image: url('shop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */
+
+}
+link2{
+
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+
+}
